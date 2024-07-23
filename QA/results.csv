@@ -1,0 +1,998 @@
+User	Query	Type	Wrong submissions	Time to correct	Score	System
+1	LSC20-52-5	Location	1	N/A 	0.00	A
+1	LSC22-117-3	Object	1	59.436	73.49	A
+1	LSC20-58-3 	Counting	0	52.587	85.39	A
+1	LSC20-67-1	Date	1	65.02	71.94	A
+1	LSC20-67-3	Frequency	5	129.3	14.08	A
+1	LSC22-QA3-1	OCR	0	23.931	93.35	A
+1	LSC20-58-2	Color	0	27.799	92.28	A
+1	LSC20-67-2	Duration	0	63.128	82.46	A
+1	LSC20-74-2	Date	6	48.515	26.52	B
+1	LSC21-82-2	Frequency	0	31.951	91.12	B
+1	LSC20-52-2	Color	0	32.017	91.11	B
+1	Random-2	OCR	2	89.414	55.16	B
+1	LSC22-116-5	Location	0	29.987	91.67	B
+1	LSC20-52-3	Object	0	44.694	87.59	B
+1	LSC21-79-4	Counting	0	33.31	90.75	B
+1	LSC22-108-4	Duration	0	41.673	88.42	B
+2	LSC22-121-2	Duration	1	null	0.00	A
+2	LSC20-56-4	Object	0	48.369	86.56	A
+2	LSC21-76-2	Counting	0	null	0.00	A
+2	LSC20-61-4	Date	0	33.049	90.82	A
+2	LSC22-114-2	Frequency	2	114.476	48.20	A
+2	LSC22-120-4	Color	0	25.388	92.95	A
+2	LSC20-62-1	Location	1	51.385	75.73	A
+2	LSC22-QA6-1	OCR	0	95	73.61	A
+2	LSC23-QA5-1	OCR	0	null	0.00	B
+2	LSC23-QA10-1	Frequency	0	74.99	79.17	B
+2	LSC20-52-4	Duration	0	44.802	87.56	B
+2	LSC20-54-1	Date	0	45.336	87.41	B
+2	LSC20-58-3	Counting	0	68.681	80.92	B
+2	LSC21-79-3	Location	0	35.592	90.11	B
+2	LSC20-51-4	Color	2	162.572	34.84	B
+2	LSC20-71-1	Object	0	25.96	92.79	B
+3	LSC20-69-1	Frequency	1	105.848	60.6	A
+3	LSC22-118-2	Date	0	28.544	92.07	A
+3	LSC20-59-2	Counting	0	61.418	82.94	A
+3	LSC20-66-5	Location	0	61.536	82.91	A
+3	LSC21-83-2	Duration	2	null	0	A
+3	LSC22-QA3-1	OCR	0	40.616	88.72	A
+3	LSC20-52-2	Color	2	61.061	63.04	A
+3	LSC20-54-2	Object	2	null	0	A
+3	LSC21-77-1	OCR	0	103.267	71.31	B
+3	LSC20-68-6	Duration	0	null	0	B
+3	LSC22-116-3	Location	0	49.941	86.13	B
+3	LSC23-QA6-1	Date	0	31.619	91.22	B
+3	LSC20-61-3	Color	1	164.425	44.33	B
+3	LSC21-76-2	Counting	0	78.961	78.07	B
+3	LSC20-70-5	Frequency	2	178.216	30.5	B
+3	LSC22-113-3	Object	0	53.434	85.16	B
+4	LSC21-75-4	Duration	1	171.039	42.49	A
+4	LSC20-54-3	Color	0	23.897	93.36	A
+4	LSC22-QA8-1	OCR	0	23.433	93.49	A
+4	LSC22-109-3	Counting	0	46.794	87	A
+4	LSC20-70-5	Frequency	0	76.893	78.64	A
+4	LSC22-111-1	Object	1	131.917	53.36	A
+4	LSC21-76-3	Location	2	null	0	A
+4	LSC22-QA1-1	Date	2	null	0	A
+4	LSC20-66-3	Frequency	2	163.735	34.52	B
+4	LSC23-QA1-1	Color	0	43.247	87.99	B
+4	LSC20-62-2	Duration	0	150.72	58.13	B
+4	LSC21-78-2	OCR	0	53.46	85.15	B
+4	LSC22-117-3	Object	0	51.975	85.56	B
+4	LSC22-114-6	Date	0	70.813	80.33	B
+4	LSC20-72-3	Location	1	173.611	41.77	B
+4	LSC20-49-3	Counting	1	111.963	58.9	B
+5	LSC22-118-1	OCR	0	92.694	74.25	B
+5	LSC22-121-1	Location	2	null	0	B
+5	LSC22-115-2	Color	0	42.979	88.06	B
+5	LSC21-76-2	Counting	0	54.854	84.76	B
+5	LSC20-55-3	Object	0	37.039	89.71	B
+5	LSC20-59-4	Date	0	49.186	86.34	B
+5	LSC22-114-2	Frequency	1	144.016	50	B
+5	LSC20-70-2	Duration	1	119.965	46.68	B
+5	LSC20-60-5	Date	1	44.121	77.74	A
+5	LSC20-49-5	Color	0	63.975	82.23	A
+5	LSC20-58-4	Location	0	54.688	84.81	A
+5	LSC22-109-2	Frequency	0	42.057	88.32	A
+5	Random-2	OCR	2	162.6	34.83	A
+5	LSC22-108-7	Counting	1	118.656	57.04	A
+5	LSC20-71-1	Object	0	25.891	92.81	A
+5	LSC20-70-2	Duration	0	56.798	84.22	A
+6	LSC20-56-1	Color	0	41.854	88.37	B
+6	LSC22-111-4	Location	0	52.042	85.54	B
+6	LSC21-75-4	Duration	1	77.201	68.56	B
+6	LSC21-79-1	Date	0	24.979	93.06	B
+6	LSC20-67-6	Object	0	137.914	61.69	B
+6	LSC20-71-3	Counting	0	76.112	78.86	B
+6	LSC20-66-3	Frequency	0	158.913	55.86	B
+6	LSC22-QA2-1	OCR	0	37.302	89.64	B
+6	LSC23-QA1-1	Color	0	20.913	94.19	A
+6	LSC23-QA5-1	OCR	0	158.87	55.87	A
+6	LSC20-58-5	Object	0	111.897	68.92	A
+6	LSC20-60-3	Duration	1	113.924	58.35	A
+6	LSC21-82-2	Frequency	0	60.281	83.26	A
+6	LSC21-85-1	Date	0	53.127	85.24	A
+6	LSC21-81-1	Location	0	118.574	67.06	A
+6	LSC20-69-4	Counting	0	50.11	86.08	A
+7	LSC20-57-1	Date	0	22.446	93.77	B
+7	LSC20-56-2	Location	0	30.657	91.48	B
+7	LSC20-60-2	Object	1	50.496	75.97	B
+7	LSC20-62-2	Duration	0	79.231	77.99	B
+7	LSC22-120-4	Color	0	29.087	91.92	B
+7	LSC20-66-4	Counting	0	97.144	73.02	B
+7	LSC20-67-3	Frequency	0	121.186	66.34	B
+7	LSC22-111-5	OCR	0	24.498	93.2	B
+7	LSC22-108-3	Date	0	70.022	80.55	A
+7	LSC20-59-2	Counting	0	88.352	75.46	A
+7	LSC20-54-3	Color	0	27.043	92.49	A
+7	LSC23-QA10-1	Frequency	1	null	0	A
+7	LSC21-78-2	OCR	0	112.546	68.74	A
+7	LSC22-117-2	Location	1	65.955	71.68	A
+7	LSC22-112-2	Object	0	69.585	80.67	A
+7	LSC21-80-3	Duration	0	119.678	66.76	A
+8	LSC22-109-3	Counting	0	63.822	82.27	B
+8	LSC20-49-4	Object	0	38.798	89.22	B
+8	LSC21-86-1	Location	0	55.196	84.67	B
+8	LSC20-57-1	Date	0	56.075	84.42	B
+8	LSC20-50-3	Duration	1	null	0	B
+8	LSC20-61-3	Color	0	68.56	80.96	B
+8	LSC23-QA8-1	OCR	1	144.113	49.97	B
+8	Random-1	Frequency	1	124.16	55.51	B
+8	LSC21-82-3	Location	0	null	0	A
+8	LSC20-53-2	OCR	0	null	0	A
+8	LSC22-121-2	Duration	0	147.193	59.11	A
+8	LSC20-71-4	Color	0	46.523	87.08	A
+8	LSC22-118-2	Date	3	115.997	37.78	A
+8	LSC20-54-2	Object	1	89.398	65.17	A
+8	LSC22-114-2	Frequency	0	145.09	59.7	A
+8	LSC21-79-4	Counting	0	44.471	87.65	A
+9	LSC22-119-4	Color	0	null	0	A
+9	LSC22-QA7-1	Object	0	69.643	80.65	A
+9	LSC20-56-3	Duration	0	47.785	86.73	A
+9	LSC20-69-1	Frequency	0	99.792	72.28	A
+9	LSC20-59-2	Counting	0	120.012	66.66	A
+9	LSC21-79-3	Location	0	55.95	84.46	A
+9	LSC20-72-2	OCR	0	33.138	90.79	A
+9	LSC20-66-1	Date	0	33.045	90.82	A
+9	LSC21-83-1	Color	0	81.55	77.35	B
+9	LSC22-QA8-1	OCR	0	61.633	82.88	B
+9	LSC22-111-1	Object	0	108.348	69.9	B
+9	LSC22-121-1	Location	1	95.685	63.42	B
+9	LSC22-109-3	Counting	0	70.648	80.38	B
+9	LSC20-70-2	Duration	0	96.159	73.29	B
+9	LSC22-108-5	Frequency	1	null	0	B
+9	LSC20-57-1	Date	1	40.624	78.72	B
+10	LSC23-QA8-1	OCR	0	79.439	77.93	B
+10	LSC21-78-4	Location	0	43.235	87.99	B
+10	LSC22-109-3	Counting	0	65.363	81.84	B
+10	LSC20-52-2	Color	0	41.24	88.54	B
+10	LSC22-121-3	Object	0	145.784	59.5	B
+10	LSC21-77-2	Date	4	178.998	10.28	B
+10	LSC23-QA10-1	Frequency	0	112.068	68.87	B
+10	LSC20-60-3	Duration	1	125.649	55.1	B
+10	LSC21-81-3	Date	0	26.145	92.74	A
+10	LSC23-QA1-1	Color	0	72.877	79.76	A
+10	LSC20-59-2	Counting	0	151.306	57.97	A
+10	LSC21-75-1	OCR	0	49.256	86.32	A
+10	LSC22-119-2	Duration	0	61.836	82.82	A
+10	LSC20-71-2	Location	0	80.945	77.52	A
+10	LSC22-110-4	Object	1	139.751	51.18	A
+10	LSC20-63-4	Frequency	1	98.007	62.78	A
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
+						
